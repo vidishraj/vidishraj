@@ -13,10 +13,10 @@ I'm a passionate software developer with a love for open-source projects and con
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Express, Django
+- **Languages:** Typescript, Python, Java, C++
+- **Frameworks:** React, Springboot, Flask
 - **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, Databricks
 
 <!--## GitHub Stats -->
 <!-- ![Vidish's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidishraj&show_icons=true&theme=radical) -->
