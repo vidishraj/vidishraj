@@ -7,7 +7,7 @@ I'm a passionate software developer with a love for open-source projects and con
 - 🌱 I’m currently learning advanced algorithms and system design.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with contributing to large-scale projects.
-- 💬 Ask me about web development, JavaScript, Python, and DevOps.
+- 💬 Ask me about web development, Springboot,Typescript, Python, and AWS.
 - 📫 How to reach me: [Email](mailto:vidishraj@gmail.com)
 - ⚡ Fun fact: I love playing chess and hiking.
 
